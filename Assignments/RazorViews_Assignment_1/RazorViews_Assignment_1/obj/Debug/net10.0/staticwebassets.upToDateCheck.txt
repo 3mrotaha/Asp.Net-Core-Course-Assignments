@@ -1,0 +1,2 @@
+wwwroot\StyleSheet.css
+C:\Users\3mrotaha\source\repos\ASPNetCore_Assignments\RazorViews_Assignment_1\RazorViews_Assignment_1\wwwroot\StyleSheet.css
