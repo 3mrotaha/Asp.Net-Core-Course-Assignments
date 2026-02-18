@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Data/Data.csproj" />
+  <Project Path="DependencyInjection_Assignment_1/DependencyInjection_Assignment_1.csproj" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

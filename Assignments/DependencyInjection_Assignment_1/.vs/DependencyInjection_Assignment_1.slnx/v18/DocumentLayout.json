@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|solutionrelative:dependencyinjection_assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|solutionrelative:dependencyinjection_assignment_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1\\views\\home\\cityweather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|solutionrelative:dependencyinjection_assignment_1\\views\\home\\cityweather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|solutionrelative:dependencyinjection_assignment_1\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|solutionrelative:dependencyinjection_assignment_1\\views\\home\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1\\dependencyinjection_assignment_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11E90B3E-0D66-40B9-BAE7-749EDF914C24}|DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj|solutionrelative:dependencyinjection_assignment_1\\dependencyinjection_assignment_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441B892E-713A-4F57-AE58-76248ED22DC9}|Services\\Services.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\services\\citiesweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441B892E-713A-4F57-AE58-76248ED22DC9}|Services\\Services.csproj|solutionrelative:services\\citiesweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4CDC27-0228-4E02-9507-DBE26A178485}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\servicecontracts\\icitiesweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4CDC27-0228-4E02-9507-DBE26A178485}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icitiesweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4CDC27-0228-4E02-9507-DBE26A178485}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\servicecontracts\\cityweatherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4CDC27-0228-4E02-9507-DBE26A178485}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\cityweatherrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BA4702-820F-4C66-BA42-4D32160D7314}|Data\\Data.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\data\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BA4702-820F-4C66-BA42-4D32160D7314}|Data\\Data.csproj|solutionrelative:data\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27BA4702-820F-4C66-BA42-4D32160D7314}|Data\\Data.csproj|c:\\users\\3mrotaha\\source\\repos\\aspnetcore_assignments\\dependencyinjection_assignment_1\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27BA4702-820F-4C66-BA42-4D32160D7314}|Data\\Data.csproj|solutionrelative:data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjection_Assignment_1\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "DependencyInjection_Assignment_1\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:08:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityWeather.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Views\\Home\\CityWeather.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjection_Assignment_1\\Views\\Home\\CityWeather.cshtml",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Views\\Home\\CityWeather.cshtml",
+              "RelativeToolTip": "DependencyInjection_Assignment_1\\Views\\Home\\CityWeather.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:07:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Views\\Home\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DependencyInjection_Assignment_1\\Views\\Home\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Views\\Home\\_ViewImports.cshtml",
+              "RelativeToolTip": "DependencyInjection_Assignment_1\\Views\\Home\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T08:07:28.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CityWeatherRequest.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\ServiceContracts\\CityWeatherRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\CityWeatherRequest.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\ServiceContracts\\CityWeatherRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\CityWeatherRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T08:01:30.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DependencyInjection_Assignment_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DependencyInjection_Assignment_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:57:23.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection_Assignment_1",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj",
+              "RelativeDocumentMoniker": "DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj",
+              "RelativeToolTip": "DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T07:57:01.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection_Assignment_1\\Program.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\DependencyInjection_Assignment_1\\Program.cs",
+              "RelativeToolTip": "DependencyInjection_Assignment_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:54:09.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Data\\Context.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\Data\\Context.cs",
+              "RelativeToolTip": "Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:48:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\Data\\CityWeather.cs",
+              "RelativeDocumentMoniker": "Data\\CityWeather.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\Data\\CityWeather.cs",
+              "RelativeToolTip": "Data\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:44:25.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitiesWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\Services\\CitiesWeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\CitiesWeatherService.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\Services\\CitiesWeatherService.cs",
+              "RelativeToolTip": "Services\\CitiesWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:42:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICitiesWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\ServiceContracts\\ICitiesWeatherService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICitiesWeatherService.cs",
+              "ToolTip": "C:\\Users\\3mrotaha\\source\\repos\\ASPNetCore_Assignments\\DependencyInjection_Assignment_1\\ServiceContracts\\ICitiesWeatherService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICitiesWeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:42:36.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
